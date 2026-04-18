@@ -31,7 +31,7 @@ The website is publicly accessible via an S3 website endpoint.
 (Add your S3 website URL here)
 
 Example:
-http://your-bucket-name.s3-website-ap-south-1.amazonaws.com
+http://omkarg-static-site.s3-website-us-east-1.amazonaws.com
 
 ---
 
