@@ -50,8 +50,7 @@ This project demonstrates how to securely manage access in AWS using IAM.
      <img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/326a48fe-fbb6-4dc0-8995-a943a065902d" />
      
      ---
-     <img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/f697ce7d-87a0-4026-bbe3-b9299fcf73ac" />
-
+     <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/bab8a7d0-c826-4de3-9d20-2f340eae0264" />
 
    * Cannot access any other services of AWS, for example - EC2
      <img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/93b8da53-b159-42ca-bd53-a3fdbbf1fdfa" />
