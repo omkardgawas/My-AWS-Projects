@@ -23,6 +23,19 @@ This project demonstrates advanced S3 features like versioning and lifecycle rul
 
 ---
 
+🛠️ Steps to Restore
+Go to the S3 bucket
+Select the object (e.g., data.txt)
+Enable "Show versions"
+Locate the delete marker
+Delete the delete marker
+
+---
+
+✅ Result
+The previous version of the file becomes active again
+The file is successfully restored
+
 ## 🔐 Key Features
 
 * Version control for objects
@@ -44,6 +57,20 @@ This project demonstrates advanced S3 features like versioning and lifecycle rul
 
 * Lifecycle rule setup
   <img width="1901" height="963" alt="image" src="https://github.com/user-attachments/assets/f93e2093-b173-48f3-a7d5-4e4dcf0bfded" />
+
+* Versioning (Delete and restore)
+  Delete the file first then enable the toggle of Show Versions
+  <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/900be8fc-c23a-43a1-babb-50e3dad519a9" />
+
+Once you enable the toggle you will the 2 versions of file - 1. Delete marker, 2. verion 1
+* Delete marker
+  <img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/9c3b69e3-e459-47f9-b725-91ad999eac27" />
+
+* Multiple versions
+  <img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/3cd63966-b5a4-4f7d-8c47-50628133e9d3" />
+
+* Restore action
+  <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/f3bde196-fc54-4778-a30f-cea7bd0bb41c" />
 
 ---
 
