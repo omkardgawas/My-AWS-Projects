@@ -69,7 +69,7 @@ Once you enable the toggle you will the 2 versions of file - 1. Delete marker, 2
 * Multiple versions
   <img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/3cd63966-b5a4-4f7d-8c47-50628133e9d3" />
 
-* Restore action
+* Restore action (Once we delete the marker version, the file gets restored)
   <img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/f3bde196-fc54-4778-a30f-cea7bd0bb41c" />
 
 ---
